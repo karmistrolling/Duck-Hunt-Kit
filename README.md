@@ -20,4 +20,4 @@ The DuckHunt STEM Kit allows users to:
 
 Whether you're a beginner or an experienced maker, this repository contains everything needed to build the complete project.
 
-Link to download the unity game: https://drive.google.com/file/d/1vLEDoXD_YanyN-FuPw409PTkXCnzGYte/view
+Link to download the unity game files needed: https://drive.google.com/file/d/1vLEDoXD_YanyN-FuPw409PTkXCnzGYte/view
